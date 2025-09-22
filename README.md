@@ -7,7 +7,8 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=4000&pause=1500&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Building+AI+Solutions+that+Transform+Healthcare;Specializing+in+Medical+AI+%26+Liquid+Neural+Networks;130%2B+Contributions+%7C+12%2B+Production+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=4000&pause=1500&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Building+AI+Solutions+that+Transform+Industries;Specializing+in+Applied+AI%2C+Machine+Learning+%26+Data+Science;130%2B+Contributions+%7C+12%2B+Production+Projects)](https://git.io/typing-svg)
+
 
 
 
