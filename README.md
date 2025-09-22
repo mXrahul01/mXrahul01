@@ -22,7 +22,7 @@
 
 **📍 Location** Pune, India  
 **🎓 Education** AI & Data Science Engineering (SPPU, 2021-25)  
-**🚀 Availability** January 2026  
+**🚀 Availability** Open to Work  
 **💼 Focus** Medical AI, Deep Learning, MLOps  
 **🏥 Specialization** Healthcare AI & Medical Imaging  
 
