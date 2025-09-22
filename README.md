@@ -1,204 +1,417 @@
-# Hi there, I'm Rahul Talvar! 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9EF7&width=600&lines=Data+Scientist+%7C+ML+Engineer;AI+%26+Data+Science+Engineer;Transforming+Data+into+Insights!)](https://git.io/typing-svg)
-
-**Data Scientist | Machine Learning Engineer | AI & Data Science Engineer @ SPPU**
-
-🚀 *Transforming data into actionable insights and building intelligent solutions that drive business impact*  
-💡 *Passionate about leveraging AI/ML to solve complex real-world problems*
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:rahultalvar902@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rahul-talvar">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://portfoliorahultalvar.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/mXrahul01">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-🎯 **Passionate Data Scientist & ML Engineer** with expertise in Python, SQL, and Deep Learning  
-🏥 **Specialized in Medical AI** - Developed chest X-ray disease prediction with **94% accuracy** using Liquid Neural Networks  
-📊 **Proven track record** in predictive modeling, EDA, and data visualization with measurable business impact  
-🎓 **AI & Data Science Engineering Graduate** from Ajeenkya DY Patil School of Engineering (SPPU)  
-🚀 **Actively seeking opportunities** starting **January 2026** to drive innovation in AI/ML
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" />
-</p>
-
----
-
-## 📊 GitHub Statistics
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mXrahul01&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mXrahul01&layout=compact&theme=radical"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mXrahul01&theme=radical" />
-</div>
+<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=RAHUL%20TALVAR&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Innovator&descAlignY=55&descAlign=62">
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mXrahul01&theme=react-dark&hide_border=true" />
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Transforming+Data+into+Intelligence;Building+AI+Solutions+that+Matter;Medical+AI+%7C+Deep+Learning+Expert)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏥 [Chest X-Ray Disease Prediction](https://github.com/mXrahul01/chest-xray-prediction)
-🔬 **Revolutionary Medical AI** using Liquid Neural Networks for disease detection
-- **94% accuracy** for Pneumonia detection (AUC 0.98)
-- **90% accuracy** for Lung Opacity classification (AUC 0.96)  
-- Real-time Flask web application for diagnostic efficiency
-- **Tech Stack:** Python, Deep Learning, LNNs, Flask, Medical AI
-
-### 💰 [Loan Default Analysis](https://github.com/mXrahul01/loan-default-analysis)
-🏦 **Robust Predictive Modeling** for banking operations
-- Built actionable insights for financial risk assessment
-- Advanced data preprocessing and ML optimization
-- **Impact:** Enhanced decision-making for banking operations
-- **Tech Stack:** Python, Machine Learning, Data Preprocessing, Predictive Modeling
-
-### 🚗 [Uber Data Analysis](https://github.com/mXrahul01/uber-data-analysis)
-📈 **Comprehensive EDA** and business intelligence
-- Uncovered key operational patterns through data visualization
-- Created interactive dashboards for business optimization
-- **Impact:** Data-driven insights for operational efficiency
-- **Tech Stack:** Python, Pandas, Data Visualization, EDA
-
-### 💼 [Portfolio Website](https://portfoliorahultalvar.netlify.app/)
-🌐 **Professional Portfolio** showcasing AI/ML expertise
-- Modern, responsive design highlighting technical achievements
-- Interactive project demonstrations and skill showcase
-- **Tech Stack:** HTML, CSS, JavaScript, Netlify
-
----
-
-## 💼 Professional Experience
-
-### 🔬 **Data Science Intern** | Technophilia Solution
-**Dec 2023 - Jan 2024**
-- 🎯 Developed Python-based employee performance evaluation system
-- 📈 **Enhanced decision-making efficiency by 30%**
-- ⚡ **Reduced manual effort by 20%** through ML automation
-- 🛠️ Minimized human bias using advanced machine learning techniques
-
----
-
-## 🏆 Certifications & Achievements
-
-<div align="center">
+<table align="center">
+<tr>
+<td>
   
-| **Certification** | **Authority** | **Year** |
-|-------------------|---------------|----------|
-| 🎓 Machine Learning Specialization | Coursera | 2023 |
-| 📊 Data Science Course | Technophilia Solution | 2023 |
-| 💾 SQL 5 Day Bootcamp | Certified | 2023 |
-| 🌟 Personality Development | Certified | 2023 |
+**🎯 Current Mission**
+> Crafting intelligent AI solutions that bridge the gap between cutting-edge technology and real-world healthcare impact
 
-</div>
+**📍 Based in** Pune, India  
+**🎓 Background** AI & Data Science Engineering (SPPU)  
+**🚀 Available** January 2026  
+**💡 Passion** Medical AI & Deep Learning Innovation
 
----
-
-## 🎯 Current Focus
+</td>
+<td width="300">
 
 ```python
-class RahulTalvar:
+class DataScientist:
     def __init__(self):
         self.name = "Rahul Talvar"
-        self.role = "Data Scientist & ML Engineer"
-        self.education = "AI & Data Science Engineering (SPPU)"
-        self.location = "Pune, India"
+        self.role = "ML Engineer"
+        self.language_spoken = ["en_US", "hi_IN", "mr_IN"]
         
-    def current_projects(self):
-        return [
-            "🏥 Advanced Medical AI using Liquid Neural Networks",
-            "📊 End-to-end ML Pipeline Development",
-            "🚀 Portfolio Enhancement for Job Applications"
-        ]
+    def say_hi(self):
+        print("Building the future, one algorithm at a time!")
         
-    def seeking_opportunities(self):
-        return {
-            "type": "Full-time Data Science/ML Engineer roles",
-            "start_date": "January 2026",
-            "interests": ["Medical AI", "Deep Learning", "Predictive Analytics"],
-            "impact": "Building AI solutions that make a difference"
-        }
+    def current_focus(self):
+        return ["Medical AI", "Liquid Neural Networks", "Production ML"]
 
-rahul = RahulTalvar()
+me = DataScientist()
+me.say_hi()
 ```
 
----
-
-## 📈 2025 Goals
-
-- 🎯 **Secure ML Engineer position** at innovative tech company
-- 🏥 **Advance Medical AI research** with cutting-edge neural networks
-- 📚 **Master advanced deep learning** architectures and deployment
-- 🌐 **Contribute to open-source** AI/ML community projects
-- 🚀 **Build production-grade** ML systems at scale
-
----
-
-## 💡 Fun Fact
-
-> **"The best way to predict the future is to create it with data!"** 
-> 
-> When I'm not training models, you'll find me exploring the latest AI research papers or building side projects that solve real-world problems. Currently fascinated by Liquid Neural Networks and their potential in medical diagnostics! 🧠⚡
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-### 🤝 **Open to Collaboration & Opportunities (January 2026)**
+## 🌐 Let's Connect & Collaborate
 
-**📧 Let's connect:** rahultalvar902@gmail.com  
-**🌟 Portfolio:** [portfoliorahultalvar.netlify.app](https://portfoliorahultalvar.netlify.app/)  
-**📱 Phone:** +91 9156184711
+<a href="mailto:rahultalvar902@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://www.linkedin.com/in/rahul-talvar">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://portfoliorahultalvar.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github-pages&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://kaggle.com/rahultalvar">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+</a>
+<a href="tel:+919156184711">
+  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+</a>
+
+</div>
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=mXrahul01&color=blueviolet&style=flat-square&label=Profile+Views" />
+## 🎯 Professional Highlights
 
-**⭐ Star my repositories if you find my work interesting!**
+<table>
+<tr>
+<td width="50%">
+
+### 🏥 **Medical AI Pioneer**
+- **94% Accuracy** in Chest X-ray Disease Detection
+- Revolutionary **Liquid Neural Networks** implementation
+- Real-time diagnostic web applications
+- Bridging AI and Healthcare for patient impact
+
+### 💼 **Data Science Impact**  
+- **30% efficiency improvement** in performance evaluation systems
+- **20% reduction** in manual operational overhead
+- Enterprise-grade ML pipeline development
+- Production-ready Flask applications
+
+</td>
+<td width="50%">
+
+### 🎓 **Academic Excellence**
+- **AI & Data Science Engineering** (SPPU)
+- Specialized in Deep Learning & Medical Imaging
+- Advanced coursework in Neural Architecture Design
+- Research focus on Healthcare AI Applications
+
+### 🏆 **Professional Growth**
+- **Data Science Intern** at Technophilia Solution
+- Multiple **ML Specialization Certifications**
+- Active contributor to **Open Source AI projects**
+- Continuous learning in cutting-edge technologies
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🛠️ **Technology Arsenal**
+
+### **Core Programming & Data Science**
+<p>
+<img src="https://skillicons.dev/icons?i=python,r,sql,git,github,vscode,jupyter" />
+</p>
+
+### **Machine Learning & AI Frameworks**
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
+<img src="https://img.shields.io/badge/Liquid_Neural_Networks-FF6B6B?style=for-the-badge&logo=brain&logoColor=white" />
+<img src="https://img.shields.io/badge/Medical_AI-4ECDC4?style=for-the-badge&logo=stethoscope&logoColor=white" />
+</p>
+
+### **Data Visualization & Analytics**
+<p>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
+
+### **Web Development & Deployment**
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,flask,docker,aws,netlify" />
+</p>
+
+### **Database & Cloud Technologies**
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 **GitHub Performance Metrics**
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mXrahul01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&card_width=300" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mXrahul01&layout=compact&theme=algolia&hide_border=true&card_width=300" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mXrahul01&theme=algolia&hide_border=true&stroke=0000&background=0D1117&border=0D1117&currStreakLabel=FFFFFF" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mXrahul01&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" />
+
+</div>
+
+---
+
+## 🚀 **Flagship Projects**
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏥 [**MedAI Diagnostics Platform**](https://github.com/mXrahul01/chest-xray-prediction)
+<img src="https://img.shields.io/badge/Status-Production%20Ready-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Accuracy-94%25-brightgreen?style=flat-square" />
+
+Revolutionary medical AI system leveraging **Liquid Neural Networks** for chest X-ray analysis.
+
+**🎯 Key Achievements:**
+- **94% accuracy** for Pneumonia detection (AUC: 0.98)
+- **90% accuracy** for Lung Opacity classification (AUC: 0.96)
+- Real-time Flask web interface for medical professionals
+- Explainable AI with GradCAM visualizations
+
+**🔧 Tech Stack:** `Python` `TensorFlow` `Liquid Neural Networks` `Flask` `OpenCV` `Medical Imaging`
+
+</td>
+<td width="50%">
+
+### 💰 [**SmartLend Risk Engine**](https://github.com/mXrahul01/loan-default-analysis)
+<img src="https://img.shields.io/badge/Impact-High%20Business%20Value-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/Model-Optimized-blue?style=flat-square" />
+
+Advanced predictive modeling system for financial risk assessment with actionable business insights.
+
+**🎯 Key Achievements:**
+- Comprehensive feature engineering pipeline
+- Advanced ensemble methods for risk prediction
+- Interactive dashboards for decision support
+- Deployment-ready MLOps infrastructure
+
+**🔧 Tech Stack:** `Python` `Scikit-learn` `XGBoost` `Pandas` `Streamlit` `MLOps`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🚗 [**Urban Mobility Analytics**](https://github.com/mXrahul01/uber-data-analysis)
+<img src="https://img.shields.io/badge/Insights-Business%20Critical-red?style=flat-square" />
+<img src="https://img.shields.io/badge/Visualization-Interactive-purple?style=flat-square" />
+
+Comprehensive data science project analyzing urban transportation patterns for operational optimization.
+
+**🎯 Key Achievements:**
+- Advanced time-series analysis and forecasting
+- Geospatial data visualization and mapping
+- Business intelligence dashboard development
+- Actionable insights for operational efficiency
+
+**🔧 Tech Stack:** `Python` `Pandas` `Matplotlib` `Seaborn` `Folium` `Plotly`
+
+</td>
+<td width="50%">
+
+### 💼 [**Portfolio Showcase**](https://portfoliorahultalvar.netlify.app/)
+<img src="https://img.shields.io/badge/Design-Modern%20UI%2FUX-green?style=flat-square" />
+<img src="https://img.shields.io/badge/Performance-Optimized-brightgreen?style=flat-square" />
+
+Professional portfolio website showcasing AI/ML expertise with modern design and interactive elements.
+
+**🎯 Key Features:**
+- Responsive design with smooth animations
+- Project showcases with live demonstrations
+- Professional branding and visual identity
+- Mobile-optimized user experience
+
+**🔧 Tech Stack:** `HTML5` `CSS3` `JavaScript` `Netlify` `Responsive Design`
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🏆 **Professional Journey & Certifications**
+
+</div>
+
+<table align="center">
+<tr>
+<td>
+
+### 💼 **Experience**
+
+**🔬 Data Science Intern**  
+*Technophilia Solution* | Dec 2023 - Jan 2024
+- Architected Python-based employee performance evaluation system
+- **Delivered 30% improvement** in decision-making efficiency
+- **Achieved 20% reduction** in manual processing overhead
+- Implemented ML algorithms to minimize human bias in assessments
+
+</td>
+<td>
+
+### 🎓 **Certifications**
+
+- **🥇 Machine Learning Specialization** - *Coursera (2023)*
+- **🥇 Data Science Professional** - *Technophilia Solution (2023)*
+- **🥇 SQL Database Management** - *5-Day Intensive Bootcamp (2023)*
+- **🥇 Professional Development** - *Leadership & Communication (2023)*
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🎯 **Current Focus & 2025 Vision**
+
+</div>
+
+```mermaid
+mindmap
+  root((Rahul's AI Journey))
+    Current Projects
+      Medical AI Research
+      Production ML Systems
+      Open Source Contributions
+    Career Goals 2025
+      ML Engineer Role
+      Healthcare AI Impact
+      Technical Leadership
+    Continuous Learning
+      Advanced Neural Architectures
+      MLOps & Model Deployment
+      AI Ethics & Responsible AI
+    Innovation Areas
+      Liquid Neural Networks
+      Medical Image Analysis
+      Real-time AI Applications
+```
+
+<div align="center">
+
+### 🚀 **Seeking Opportunities**
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**🎯 Role**  
+ML Engineer  
+Data Scientist  
+
+</td>
+<td align="center" width="25%">
+
+**📅 Availability**  
+January 2026  
+Full-time  
+
+</td>
+<td align="center" width="25%">
+
+**🌟 Interests**  
+Medical AI  
+Deep Learning  
+
+</td>
+<td align="center" width="25%">
+
+**🚀 Impact**  
+Healthcare Innovation  
+Production AI Systems  
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💫 **Fun Facts & Personal Touch**
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🧠 **Quote**
+*"In a world full of data,  
+be the algorithm that  
+finds the pattern"*
+
+</td>
+<td align="center" width="33%">
+
+### ⚡ **Quick Facts**
+- 🌍 Fluent in 3 languages
+- 🏥 Healthcare AI enthusiast  
+- 📚 Research paper reader
+- 🚀 Innovation-driven mindset
+
+</td>
+<td align="center" width="33%">
+
+### 🎮 **When Not Coding**
+- 📖 Reading AI research papers
+- 🏥 Exploring medical datasets
+- 🎯 Building side projects
+- 🌱 Learning new frameworks
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 **Let's Build Something Amazing Together**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling">
+
+### Ready to collaborate on your next AI project? Let's connect!
+
+<a href="mailto:rahultalvar902@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://portfoliorahultalvar.netlify.app/">
+  <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=github-pages&logoColor=white" />
+</a>
+<a href="tel:+919156184711">
+  <img src="https://img.shields.io/badge/Call_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=mXrahul01&color=00d4aa&style=flat-square&label=Profile+Views" />
+
+**💫 Thanks for visiting! Star ⭐ my repositories if you find my work interesting!**
 
 </div>
