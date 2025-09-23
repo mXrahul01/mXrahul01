@@ -22,29 +22,28 @@
 <td align="center" width="50%">
   
 **🎯 Mission Statement**
-> *Democratizing AI-powered healthcare through innovative medical imaging solutions and production-grade machine learning systems*
+> *Democratizing AI & Data Science by building scalable, production-grade machine learning systems that transform industries through data-driven innovation.*
 
 **📍 Location** Pune, India  
 **🎓 Education** AI & Data Science Engineering (SPPU, 2021-25)  
 **🚀 Availability** Open to Work  
-**💼 Focus** Medical AI, Deep Learning, MLOps  
-**🏥 Specialization** Healthcare AI & Medical Imaging  
+**💼 Focus** Applied AI,Data Science, Deep Learning, MLOps  
+**🏥 Specialization** Data-Driven Solutions, Intelligent Systems & Predictive Modeling    
 
 </td>
 <td width="50%">
 
 ```python
-class HealthcareAIEngineer:
+class AI& Data Science Engineer:
     def __init__(self):
         self.name = "Rahul Talvar"
-        self.role = "AI Engineer & Medical AI Pioneer"  
+        self.role = "Data Scientist & ML Engineer"  
         self.core_expertise = [
-            "Medical AI", "Deep Learning", "MLOps",
-            "Liquid Neural Networks", "Computer Vision"
+            "Data Analytics", "Applied AI", "Machine Learning","Deep Learning",
+            "MLOps", "Computer Vision"
         ]
         self.current_projects = {
             "Auto_Data_Analyst": "AI-powered analytics platform",
-            "Chest_Xray_AI": "94% accuracy medical diagnosis",
             "NYC_Taxi_Demand": "61.7% improvement over baseline"
         }
         
@@ -57,11 +56,11 @@ class HealthcareAIEngineer:
         }
         
     def current_mission(self):
-        return "Building AI that saves lives! 🏥⚕️"
+        return "Building AI that transforms data into decisions 🚀"
 
-rahul = HealthcareAIEngineer()
+rahul = AI& Data Science Engineer()
 print(rahul.current_mission())
-# Output: "Building AI that saves lives! 🏥⚕️"
+# Output: "Building AI that transforms data into decisions 🚀"
 ```
 
 </td>
